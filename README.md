@@ -8,7 +8,8 @@ For those days where you just don't feel like a run. Inspired by Nike Head Coach
 ## V0 Integration
 I use v0 to assist me in development. It provides assistance with code but also the main benefit I find is how easy it is to deploy and share apps. I try to use v0 as a peer, like I'm pair programming, to help me learn more, rather than vibe coding through all of it. It also allows me to log in on any machine so coding on the go can be a bit easier, like code-sandbox.
 
-
+## Deployed
+Currently deployed at [https://running-motivation.vercel.app/](https://running-motivation.vercel.app/)
 
 ## Overview
 
